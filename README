@@ -1,0 +1,4 @@
+This is a board based fun game which relies mostly on the Artificial Intelligence applied on the CPU player.
+A player can play against the CPU(single player) or another player(two players).
+Players take turns to complete a square and the one with the maximum number of squares at the end of the game wins.
+
